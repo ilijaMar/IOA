@@ -1,0 +1,6 @@
+﻿  bonus1.cpp
+C:\Users\Ilija\Desktop\IOA\DOMACI\bonus1\bonus1\bonus1\bonus1.cpp(5,21): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Ilija\Desktop\IOA\DOMACI\bonus1\bonus1\bonus1\bonus1.cpp(25,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ilija\Desktop\IOA\DOMACI\bonus1\bonus1\bonus1\bonus1.cpp(33,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ilija\Desktop\IOA\DOMACI\bonus1\bonus1\bonus1\bonus1.cpp(14): warning C4715: 'faktorijel': not all control paths return a value
+  bonus1.vcxproj -> C:\Users\Ilija\Desktop\IOA\DOMACI\bonus1\bonus1\x64\Debug\bonus1.exe
