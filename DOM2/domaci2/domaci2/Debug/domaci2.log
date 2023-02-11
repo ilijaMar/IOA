@@ -1,0 +1,5 @@
+﻿  resenje.cpp
+C:\Users\ilija\OneDrive\Desktop\IOA\DOMACI\DOM2\domaci2\domaci2\resenje.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilija\OneDrive\Desktop\IOA\DOMACI\DOM2\domaci2\domaci2\resenje.cpp(54,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ilija\OneDrive\Desktop\IOA\DOMACI\DOM2\domaci2\domaci2\resenje.cpp(57,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  domaci2.vcxproj -> C:\Users\ilija\OneDrive\Desktop\IOA\DOMACI\DOM2\domaci2\Debug\domaci2.exe

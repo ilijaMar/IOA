@@ -1,0 +1,16 @@
+Dobijena resenja algoritma pod A):
+x1=0.8
+x2=1.25
+x3=2.22
+x4=3.5
+Maksimalni broj iteracija:14992450950
+
+Dobijena resenja algoritma pod B):
+x1=2.22
+x2=1.25
+x3=0.8
+x4=3.5
+Maksimalni broj iteracija:76981524
+
+Algoritam pod B) je brzi od algoritma pod A) 194 puta
+

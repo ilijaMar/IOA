@@ -1,0 +1,9 @@
+﻿  resenje.cpp
+C:\Users\ilija\OneDrive\Desktop\IOA\DOMACI\DOM2\domaci2\domaci2\resenje.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilija\OneDrive\Desktop\IOA\DOMACI\DOM2\domaci2\domaci2\resenje.cpp(55,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  5 of 109 functions ( 4.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  domaci2.vcxproj -> C:\Users\ilija\OneDrive\Desktop\IOA\DOMACI\DOM2\domaci2\Release\domaci2.exe
